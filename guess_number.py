@@ -1,3 +1,6 @@
+# Created by rohimatun
+# Politeknik Negeri Semarang
+
 def guess_number():
     secret_number = 9
     guess = 0
